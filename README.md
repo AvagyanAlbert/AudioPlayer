@@ -60,7 +60,7 @@ MainWindow (XAML)  ↔  MainViewModel  ↔  Services  ↔  Audio engine
 
 | Now Playing | Paused |
 |---|---|
-| ![Now playing - A Walk by Tycho](Screenshots/now-playing.png) | ![Paused - Better Days by Lakey Inspired](Screenshots/paused.png) |
+| ![Now playing - A Walk by Tycho](Screenshots/now_playing.png) | ![Paused - Better Days by Lakey Inspired](Screenshots/paused.png) |
 
 ---
 
@@ -68,7 +68,7 @@ MainWindow (XAML)  ↔  MainViewModel  ↔  Services  ↔  Audio engine
 
 ### Prerequisites
 
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) with the **.NET Desktop Development** workload
+- [Visual Studio 2026](https://visualstudio.microsoft.com/) with the **.NET Desktop Development** workload
 - .NET SDK (see `AudioPlayer.csproj` for target version)
 
 ### Setup
